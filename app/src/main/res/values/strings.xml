@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Voice Assistant</string>
+
+    <string name="question_text">Ask a question</string>
+    <string name="question_listening">Listening…</string>
+    <string name="send_text">Send</string>
+    <string name="thinkng_about_it">Understood. Thinking about it…</string>
+
+    <string name="bubble_text">Message</string>
+    <string name="bubble_date">Date</string>
+    <string name="user_name">User</string>
+    <string name="assistant_name">Assistant</string>
+
+    <string name="day_settings">Day theme</string>
+    <string name="night_settings">Night theme</string>
+
+    <string name="today">today</string>
+    <string name="yesterday">yesterday</string>
+    <string name="tomorrow">tomorrow</string>
+
+    <string name="input_hello">hello</string>
+    <string name="input_howareyou">how are you</string>
+    <string name="input_whatareyoudoing">what are you doing</string>
+    <string name="input_iwatchedmovie">i watched movie</string>
+    <string name="input_score">score</string>
+    <string name="input_advicemovie">recommend a movie</string>
+
+    <string name="output_hello">Hello</string>
+    <string name="output_howareyou">Not bad</string>
+    <string name="output_whatareyoudoing">Answering questions</string>
+    <string name="output_unknown">I don\'t even know what to say</string>
+    <string name="output_movie_unknown">Couldn\'t recognize the movie you watched</string>
+    <string name="output_movie_found">You watched %s? How do you rate the movie on a ten-point scale?</string>
+    <string name="output_scoreincorrect">Incorrect score</string>
+    <string name="output_scored">You gave the movie %s a score of %d out of 10</string>
+    <string name="output_recommendationunknown">I don\'t know what to recommend to you! Share with me what movies do you like</string>
+    <string name="output_recommendationallseen">All I can suggest is you have already seen :(</string>
+    <string name="output_recommendationwithdescription">You can watch %s: %s</string>
+    <string name="output_recommendation_withoutdescription">You can watch %s</string>
+
+
+</resources>

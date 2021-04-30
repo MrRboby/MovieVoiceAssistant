@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голосовой помощник</string>
+
+    <string name="question_text">Введите сообщение…</string>
+    <string name="question_listening">Слушаю…</string>
+    <string name="send_text">Отправить</string>
+    <string name="thinkng_about_it">Вопрос понял. Думаю…</string>
+
+    <string name="bubble_text">Сообщение</string>
+    <string name="bubble_date">Дата</string>
+    <string name="user_name">Пользователь</string>
+    <string name="assistant_name">Помощник</string>
+
+    <string name="day_settings">Дневная тема</string>
+    <string name="night_settings">Ночная тема</string>
+
+    <string name="today">сегодня</string>
+    <string name="yesterday">вчера</string>
+    <string name="tomorrow">завтра</string>
+
+    <string name="input_hello">привет</string>
+    <string name="input_howareyou">как дела</string>
+    <string name="input_whatareyoudoing">чем занимаешься</string>
+    <string name="input_iwatchedmovie">я посмотрел фильм</string>
+    <string name="input_score">оценка</string>
+    <string name="input_advicemovie">посоветуй фильм</string>
+
+    <string name="output_hello">Привет</string>
+    <string name="output_howareyou">Не плохо</string>
+    <string name="output_whatareyoudoing">Отвечаю на вопросы</string>
+    <string name="output_unknown">Даже не знаю, что и ответить</string>
+    <string name="output_movie_unknown">Не смог определить фильм, который вы посмотрели</string>
+    <string name="output_movie_found">Вы посмотрели %s? Какую оценку по десятибалльной шкале поставите фильму?</string>
+    <string name="output_scoreincorrect">Некорректная оценка</string>
+    <string name="output_scored">Вы поставили фильму %s оценку %d из 10</string>
+    <string name="output_recommendationunknown">Я не знаю, что вам предложить! Поделитесь со мной, какие фильмы вам нравятся</string>
+    <string name="output_recommendationallseen">Все, что я могу предложить, вы уже посмотрели :(</string>
+    <string name="output_recommendationwithdescription">Вы можете посмотреть %s: %s</string>
+    <string name="output_recommendation_withoutdescription">Вы можете посмотреть %s</string>
+</resources>
